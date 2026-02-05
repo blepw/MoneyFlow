@@ -7,9 +7,9 @@ Supports : Bitcoin , Ethereum , XRP & Solana
 ## Interface 
 
 <img width="1909" height="1031" alt="interface" src="https://github.com/user-attachments/assets/5da7e129-fd8f-425e-929a-df30bf9664a4" />
-<br><br<br><br
+<br><br<br><br<br><br<br><br
 <img width="1197" height="805" alt="flow_details" src="https://github.com/user-attachments/assets/ed5eb791-4552-4fac-8edc-31ee896a450c" />
-
+<br><br<br><br<br><br<br><br
 <img width="1038" height="869" alt="money_flow_graph" src="https://github.com/user-attachments/assets/fc4e8aad-4e39-409c-a266-39370afc936a" />
 
 ---
