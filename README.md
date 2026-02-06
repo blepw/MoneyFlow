@@ -32,7 +32,7 @@ User can get more information by pressing the 'Flow details' button that will gi
 1 : The tool fetches data from blockchain explorers and API's to get 
 Current balance , transaction history and price data from CoinGecko 
 
-2: Processes the data to show . A transaction list , money flow graph 
+2: Processes the data to show a transaction list , money flow graph 
 and statistics 
 
 3 : Visualizes by creating a network graph where the center is the target address
